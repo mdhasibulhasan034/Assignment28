@@ -107,7 +107,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-5">
-            <img src="./New folder/Assignment  29.jpg" class="img-thumbnail" alt="...">
+            <img src="https://i.ibb.co/CJ7zNBP/Assignment-29.jpg" class="img-thumbnail" alt="Assignment-29" border="0">
           </div>
           <div class="col-md-7">
             <figure>
